@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+analog_clocks/images/
+analog_clocks/processed/
 # C extensions
 *.so
 
